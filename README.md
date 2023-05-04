@@ -16,9 +16,9 @@
 
 ### 기술 스택
 
-|프로젝트 구조| 화면구성 | 로컬 DB | 리모트 DB | 의존성 관리도구 |
+|프로젝트 구조| 화면구성 | 로컬 DB | 의존성 관리도구 |
 |-|-|-|-|-|
-| `MVVM` |`UIKit` | `CoreData` | `FireBase` | `CocoaPods` | 
+| `MVVM` |`UIKit` | `CoreData` | `CocoaPods` | 
 
 ### 팀원
 | <img src= "https://avatars.githubusercontent.com/u/74972815?v=4" width=150> |
